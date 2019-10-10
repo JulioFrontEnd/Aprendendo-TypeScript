@@ -7,6 +7,6 @@ function exibir(nome:string,idade?:number):string{
 
 console.log(`RETORNO: ${exibir("Julio")}`)
 
-let Upp:string[] = ["Julio","Beyou"]
+let Upp:string[] = ["Julio","Beyou","Gore"]
 
 console.log(Upp)
